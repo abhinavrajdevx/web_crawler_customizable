@@ -51,6 +51,7 @@ const REQUEST_TIMEOUT = 5000;
 const SEED_URL = "[https://example.com](https://example.com)";
 const USER_AGENT = "MyCustomCrawler/1.0";
 const DOMAIN_TOCONIDER_ONLY = "example.com";
+```
 
 ## Usage
 -   **Modify the configuration as needed.
