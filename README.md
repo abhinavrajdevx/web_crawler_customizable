@@ -70,4 +70,4 @@ const DOMAIN_TOCONIDER_ONLY = "example.com";
 The crawler uses a queue (async.queue) to manage the crawling process. The crawlUrl function fetches a URL, extracts links, and adds them to the queue. The shouldSkipUrl function filters URLs based on visited status and domain. The extractLinks function parses HTML and extracts valid links.
 
 ##Contributing
-Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs. 1  
+Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
